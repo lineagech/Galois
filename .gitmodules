@@ -1,5 +1,5 @@
 [submodule "moderngpu"]
-	path = external/moderngpu
+	path = moderngpu
 	url = https://github.com/moderngpu/moderngpu.git
 [submodule "cub"]
 	path = external/cub
